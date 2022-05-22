@@ -1,4 +1,4 @@
-<img src="/img/animated-quote.gif" width="320" height="240" />
+![animated](/img/animated-quote.gif)
 <!---
 - 👋 Hi, I’m @larikkai
 - 👀 I’m interested in ...
