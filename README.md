@@ -1,4 +1,4 @@
-![animated](/img/animated-quate.gif)
+![animated](/img/animated-quote.gif)
 <!---
 - 👋 Hi, I’m @larikkai
 - 👀 I’m interested in ...
