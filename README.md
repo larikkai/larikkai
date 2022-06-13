@@ -8,6 +8,11 @@
   <img alt="Text changing depending on mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=larikkai&layout=compact&show_icons=true&theme=graywhite&hide_border=true" width="32.5%" align="center">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=larikkai&theme=nord&hide_border=true" width="79%">
+  <img alt="Text changing depending on mode." src="https://github-readme-streak-stats.herokuapp.com/?user=larikkai1&theme=graywhite&hide_border=true" width="79%">
+</picture>
+
 <!---
 - 👋 Hi, I’m @larikkai
 - 👀 I’m interested in ...
