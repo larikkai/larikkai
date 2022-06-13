@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=larikkai&show_icons=true&theme=nord&hide_border=true&hide_title=true">
-  <img alt="Text changing depending on mode." src="https://github-readme-stats.vercel.app/api?username=larikkai&show_icons=true&theme=graywhite&hide_border=true&hide_title=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=larikkai&show_icons=true&theme=nord&hide_border=true&hide_title=true" width="46%" align="center">
+  <img alt="Text changing depending on mode." src="https://github-readme-stats.vercel.app/api?username=larikkai&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" width="46%" align="center">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larikkai&layout=compact&show_icons=true&theme=nord&hide_border=true">
-  <img alt="Text changing depending on mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=larikkai&layout=compact&show_icons=true&theme=graywhite&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=larikkai&layout=compact&show_icons=true&theme=nord&hide_border=true" width="32.5%" align="center">
+  <img alt="Text changing depending on mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=larikkai&layout=compact&show_icons=true&theme=graywhite&hide_border=true" width="32.5%" align="center">
 </picture>
 
 <!---
