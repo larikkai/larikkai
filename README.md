@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.gif" width="100"/>
   <div id="badges">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-%232E3440?style=flat-square&logo=linkedin&logoColor=%23D8DEE9">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-%233B4252?style=flat-square&logo=linkedin&logoColor=%23D8DEE9">
       <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=gray">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-%232E3440?style=flat-square&logo=twitter&logoColor=%23D8DEE9">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-%233B4252?style=flat-square&logo=twitter&logoColor=%23D8DEE9">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter&logoColor=gray">
     </picture>
   </div>
