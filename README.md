@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gifhttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+</div>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=larikkai&show_icons=true&theme=nord&hide_border=true&hide_title=true" width="46%" align="center">
