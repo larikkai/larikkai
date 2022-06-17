@@ -1,14 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.gif" width="100"/>
   <div id="badges">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-%233B4252?style=flat-square&logo=linkedin&logoColor=%23D8DEE9">
-      <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=gray">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-%233B4252?style=flat-square&logo=twitter&logoColor=%23D8DEE9">
-      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter&logoColor=gray">
-    </picture>
+    <a target="_blank" href="https://www.linkedin.com/in/larikka-kai/">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-%233B4252?style=flat-square&logo=linkedin&logoColor=%23D8DEE9">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=gray">
+      </picture>
+    </a>
+    <a target="_blank" href="https://twitter.com/kailarikka">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-%233B4252?style=flat-square&logo=twitter&logoColor=%23D8DEE9">
+        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter&logoColor=gray">
+      </picture>
+    </a>
   </div>
 </div>
 
